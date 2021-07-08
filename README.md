@@ -1,4 +1,4 @@
-![Intro](https://github.com/Ismriti12/Ismriti12/blob/main/Github%20Intro.mp4)
+![Intro](https://github.com/Ismriti12/Ismriti12/blob/main/Image.png)
 
 
 
