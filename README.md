@@ -1,3 +1,6 @@
+![Intro](https://github.com/Ismriti12/Ismriti12/blob/main/Github%20Intro.mp4)
+
+
 
 🙏🏼Namaste, I am Ismriti, a final year engineering student who is exploring natural language processing applications while helping other fellow peers to figure it out.
 
