@@ -64,5 +64,3 @@ I'm particularly interested in building **secure, useful, and production-oriente
 ## Let's Connect
 
 I'm always interested in discussing Generative AI, agentic systems, Microsoft Azure AI, enterprise automation, and AI-driven developer productivity.
-You can click the Preview link to take a look at your changes.
---->
